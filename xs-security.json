@@ -1,7 +1,7 @@
 {
   "xsappname": "plainui5-plainui5",
   "tenant-mode": "dedicated",
-  "description": "Security profile of called application git 2",
+  "description": "Security profile of called application git 2 conflit",
   "scopes": [
     {
       "name": "uaa.user",
